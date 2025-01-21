@@ -55,6 +55,7 @@ nav{
 nav a{
     border: 1px solid;
     padding: 1px;
+   text-decoration: none;
 }
 nav a:hover{
     background-color: darkmagenta;
